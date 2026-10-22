@@ -14,8 +14,8 @@
 
 ### Meus projetos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Uelisson-Barreto-Dev&repo=projetos&theme=dark&bg_color=0B1026&title_color=00E5FF&icon_color=39FF14&text_color=C9D1D9&hide_border=true&locale=pt-br)](https://github.com/Uelisson-Barreto-Dev/projetos)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Uelisson-Barreto-Dev&repo=meus_estudos&theme=dark&bg_color=0B1026&title_color=00E5FF&icon_color=39FF14&text_color=C9D1D9&hide_border=true&locale=pt-br)](https://github.com/Uelisson-Barreto-Dev/meus_estudos)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Uelisson-Barreto-Dev&repo=meus_estudos&v=2&theme=dark&bg_color=0B1026&title_color=00E5FF&icon_color=39FF14&text_color=C9D1D9&hide_border=true&locale=pt-br)](https://github.com/Uelisson-Barreto-Dev/meus_estudos)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Uelisson-Barreto-Dev&repo=projetos&v=3&theme=dark&bg_color=0B1026&title_color=00E5FF&icon_color=39FF14&text_color=C9D1D9&hide_border=true&locale=pt-br)](https://github.com/Uelisson-Barreto-Dev/projetos)
 
 [![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0B1026?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Uelisson-Barreto-Dev?tab=repositories)
 
